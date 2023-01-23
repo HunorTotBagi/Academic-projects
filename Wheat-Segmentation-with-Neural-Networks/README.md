@@ -1,7 +1,3 @@
-This project was within the course Introduction to Image Processing throughout my Master studies.
+This project was a part of the "Introduction to Image Processing" course during my Master's studies. 
 
-We were given images of wheat from above from which we had to make labels where are the wheat heads located.
-These labels and original images where forwarded to a Convolutional Neural Network to lean the patterns.
-The main goal was to get predictions where are the wheat heads if we forward a new image to CNN. 
-In the labeling process we manually counted how many wheat head are in the image.
-We had to come up with algorithm to count the wheat heads from the predicted image.
+The objective of the project was to develop a method for accurately identifying the location of wheat heads in aerial images of wheat fields. The approach involved manually annotating a set of training images to create ground truth labels, which were then used to train a Convolutional Neural Network (CNN) model. The trained model was then used to predict the location of wheat heads in new images. Additionally, we developed an algorithm for counting the number of wheat heads in the predicted images, which was used to evaluate the performance of the model.
