@@ -1,9 +1,8 @@
-This project was within the course Programming for Data Science throughout my Master studies. 
+This project was undertaken as part of the Programming for Data Science course during my Master's studies. The objectives of the project were:
 
-The tasks were: 
-1. Count data entries in available data set for each user and present them as histogram
-2. Count entries per year and unique number of users per year and present them graphically
-3. Measure correlations between different symptoms
-4. Use boxplot to present overall symptoms on month level
-5. Daily measurements of levels of pollen
-6. Measure Spearman correlations between different seasons of pollen
+To conduct a frequency analysis of the data entries for each user, and present the results in the form of histograms.
+To analyze the temporal distribution of data entries and unique user counts, and present the results graphically.
+To assess the correlation between various symptoms in the dataset.
+To utilize boxplots to illustrate the overall distribution of symptoms on a monthly basis.
+To examine daily variations in pollen levels.
+To evaluate the relationship between pollen levels and seasons using Spearman correlation analysis.
