@@ -1,4 +1,4 @@
-This project was undertaken as part of the Programming for Data Science course during my Master's studies. The objectives of the project were:
+This project was undertaken as part of the "Programming for Data Science" course during my Master's studies. The objectives of the project were:
 
 1. To conduct a frequency analysis of the data entries for each user, and present the results in the form of histograms.
 2. To analyze the temporal distribution of data entries and unique user counts, and present the results graphically.
