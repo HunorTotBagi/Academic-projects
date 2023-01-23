@@ -1,3 +1,3 @@
-This project was within the course Network Science throughout my Master studies.
+This project was conducted as part of the "Network Science" course during my Master's studies.
 
-The goal of this project was to understand and make a Python implementation of the following centrality measures: eigenvector in-centrality, eigenvector out-centrality, the Katz centrality, the Bonacic alpha and (alpha,beta)-centrality, the HITS algorithm (also know as Hubs and Authorities) and the PageRank algorithm. The proposed algorithms were analysed and tested on a given network which changes throughout time.
+The aim of the project was to gain an understanding of several centrality measures and implement them in Python. These measures included eigenvector in-centrality, eigenvector out-centrality, Katz centrality, Bonacich alpha centrality, (alpha,beta)-centrality, HITS algorithm (also known as Hubs and Authorities) and the PageRank algorithm. The proposed algorithms were analyzed and evaluated on a temporal network dataset.
