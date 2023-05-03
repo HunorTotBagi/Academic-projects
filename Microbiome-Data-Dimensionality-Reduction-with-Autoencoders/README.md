@@ -1,5 +1,3 @@
-This project was within the course Large Scale Data Mining throughout my Master studies.
+This project was conducted as part of the "Large Scale Data Mining" course during my Master's studies. 
 
-An opportunity appeared with challenge organized as part of the sbv IMPROVER project, which aims to investigate the diagnostic potential of metagenomics data to discriminate patients with inflammatory bowel disease. Although the main goal of challenge is classification, the results in project are focused on the performance of various Autoencoders used for dimensionality reduction of data before the classification itself and they can be found in the Writeup pfd.
-
-In this challenge our team placed 7th out of 13 teams.
+It was undertaken as part of the sbv IMPROVER project, which aims to explore the diagnostic potential of metagenomics data in the discrimination of patients with inflammatory bowel disease. The primary objective of the challenge was classification, however, the focus of this project was the performance evaluation of various Autoencoders for dimensionality reduction of the data prior to classification. The results of this study can be found in the project write-up (PDF). Our team placed 7th out of 13 participating teams in the challenge.

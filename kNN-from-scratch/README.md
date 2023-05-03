@@ -1,6 +1,5 @@
-This project was within the course Pattern Recognition and Machine Learning throughout my Master studies.
+This project was undertaken as part of the "Pattern Recognition and Machine Learning" course during my Master's studies. The objectives of the project were:
 
-The tasks were: 
-1. Draw random samples from normal distribution with given parameters, than to make density estimator
-2. Test for different numbers of neighbors how does the quality of estimation changes
-3. Pick a random sample and classify it respect to labels
+1. To generate random samples from a normal distribution with specified parameters and use them to create a density estimator.
+2. To investigate the effect of varying the number of neighbors on the accuracy of the density estimation by testing the estimator on different sample sizes.
+3. To classify a randomly selected sample according to predefined labels.
